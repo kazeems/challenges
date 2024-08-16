@@ -1,0 +1,91 @@
+body {
+  font-family:"Public Sans", sans-serif;
+  line-height: auto;
+}
+
+p {
+  color: hsl(233, 8%, 62%);
+}
+
+button {
+  color: hsl(0, 0%, 100%);
+  background-color:  hsl(138, 49%, 55%);
+  padding: 5px;
+  width: 150px;
+  border-radius: 22px;
+  border: none;
+  font-size: small;
+}
+
+.header {
+  background-color: red;
+  
+}
+
+.second-section {
+  background-color: hsl(0, 0%, 98%);
+  height: 750px;
+  
+}
+
+.nav-buttons {
+  text-align: center;
+}
+
+.nav-buttons a {
+  text-decoration: none;
+}
+
+
+nav button {
+  float: right;
+}
+
+h1.hero {
+  padding: 50% 0 0 0;
+  font-size: 4rem;
+}
+
+.phones {
+  overflow-x: hidden;
+  background-image: url('/images/bg-intro-desktop.svg');
+  background-position-y: 135%;
+  background-position-x: 11%;
+  background-repeat: no-repeat;
+
+}
+
+.phones img {
+  margin-top: -60px;
+  
+}
+
+.third-section {
+  background-color: hsl(220, 16%, 96%);
+
+}
+
+.third-section p {
+  font-size: small;
+}
+
+.fourth-section {
+  padding: 50px 0 100px 0;
+  background-color: hsl(0, 0%, 98%);
+}
+
+footer {
+  color: white;
+  background-color: #32344D;
+}
+
+.footer-left p {
+  padding-right: 65px;
+}
+
+.footer-left ul {
+  padding-left: 70px;
+  list-style-type: none;
+  line-height: 2em;
+}
+
